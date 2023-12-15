@@ -43,7 +43,7 @@
         android:ems="10"
         android:fontFamily="@font/nothing"
         android:inputType="text"
-        android:text="Price Of Menu (ex. Rp25,000)"
+        android:text="Price Of Menu (ex. Rp100,000)"
         android:textColor="@color/grey1"
         android:textFontWeight="1000"
         tools:ignore="MissingConstraints"
